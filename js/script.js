@@ -349,8 +349,6 @@ function insertItemPortionName(html,
   html = insertProperty(html, portionPropName, portionValue);
   return html;
 }
-
-
 global.$dc = dc;
 
 })(window);
